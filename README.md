@@ -11,3 +11,8 @@ javac Calculator.java
 
 # Other
 *.class is generate file
+
+# Careful
+1.2nd and deg functions are not implemented and are being implemented...
+2.Calculator still has a lot of error, still be correcting
+3.This algorithm is for infix expression suffix expression
